@@ -13,37 +13,7 @@ License
 Project Description
 Attyre is a tool for finding colors that best suit an individual based on their physical attributes. It shows a color palette categorized into recommended colors and colors to avoid, enabling users to choose outfits and accessories that complement their look.
 
-Folder Structure
-plaintext
-Copy code
-frontend/
-├── node_modules/
-├── public/
-└── src/
-├── assets/
-├── components/
-│ ├── Analysis.jsx
-│ ├── Capabilities.jsx
-│ ├── Footer.jsx
-│ ├── HeroSection.jsx
-│ ├── Navbar.jsx
-├── context/
-│ ├── ImgContext.js
-│ ├── ImgContextProvider.jsx
-├── pages/
-├── App.css
-├── App.jsx
-├── index.css
-├── main.jsx
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-├── tailwind.config.js
-└── vite.config.js
+
 Technologies Used
 React - JavaScript library for building user interfaces
 Vite - A build tool that provides a faster and leaner development experience
