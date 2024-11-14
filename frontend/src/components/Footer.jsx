@@ -100,12 +100,12 @@ function Footer() {
         <div className="flex flex-col gap-3 pt-[150px] md:pt-0">
           <h2 className="">Get the app</h2>
           <img
-            src="./src/assets/apple_store.png"
+            src="assets/apple_store.png"
             alt="apple store"
             className="h-[40px] w-[135px]"
           />
           <img
-            src="./src/assets/play_store.png"
+            src="assets/play_store.png"
             alt="apple store"
             className="h-[40px] w-[135px]"
           />
@@ -126,12 +126,12 @@ function Footer() {
           className="flex gap-6 md:gap-10"
         >
           <img
-            src="./src/assets/linkedin.png"
+            src="assets/linkedin.png"
             alt="linkedin"
             className="h-[24px] w-[24px]"
           />
           <img
-            src="./src/assets/instagram.png"
+            src="assets/instagram.png"
             alt="linkedin"
             className="h-[24px] w-[24px]"
           />

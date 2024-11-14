@@ -7,37 +7,37 @@ const ColorAnalysisTool = () => {
       title: "Customized for Your Natural Beauty",
       description:
         "Tailors recommendations based on your unique skin tone, eye color, and hair color to create a harmonious look.",
-      icon: "./src/assets/icon1.png",
+      icon: "assets/Icon1.png",
     },
     {
       title: "Instantly Curated Palette",
       description:
         "Quickly get a personalized palette with 25 colors to wear and 10 to avoid, complete with names, hex codes, and reasons for easy styling.",
-      icon: "./src/assets/icon2.png",
+      icon: "assets/icon2.png",
     },
     {
       title: "Flexible to Your Style Preferences",
       description:
         "Choose from options like bold, neutral, minimalist, or vibrant colors, so your palette truly reflects your personal style.",
-      icon: "./src/assets/icon3.png",
+      icon: "assets/icon3.png",
     },
     {
       title: "Enhances Shopping Confidence",
       description:
         "Know exactly which colors to look for when shopping, making it easier to find pieces you’ll love.",
-      icon: "./src/assets/icon4.png",
+      icon: "assets/Icon4.png",
     },
     {
       title: "Built on Color Science",
       description:
         "Utilizes principles of color theory to ensure each color complements your natural tones and undertones.",
-      icon: "./src/assets/icon5.png",
+      icon: "assets/Icon5.png",
     },
     {
       title: "Save Time and Eliminate Guesswork",
       description:
         "Get instant recommendations that are tailored for you, making shopping easier than ever.",
-      icon: "./src/assets/icon6.png",
+      icon: "assets/Icon6.png",
     },
   ];
 

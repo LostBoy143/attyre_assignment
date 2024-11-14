@@ -115,7 +115,7 @@ function Result() {
               </h3>
               <p>{item.usage}</p>
               <p className="text-[#475467] mt-[5px]">
-                {item.description}
+                {item.reason}
               </p>
             </div>
           </motion.div>

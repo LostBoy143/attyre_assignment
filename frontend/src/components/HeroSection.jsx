@@ -90,7 +90,7 @@ const HeroSection = () => {
             {/* Icon */}
             <div className="bg-[#F8F7F4] p-2 rounded-full text-gray-400">
               <img
-                src="./src/assets/send_icon.png"
+                src="assets/send_icon.png"
                 alt=""
               />
             </div>
@@ -132,7 +132,7 @@ const HeroSection = () => {
           viewport={{ once: true }}
         >
           <img
-            src="./src/assets/hero-img.png"
+            src="assets/hero-img.png"
             alt="Color palettes"
             className="shadow-lg"
           />

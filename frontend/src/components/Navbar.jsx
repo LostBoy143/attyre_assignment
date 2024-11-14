@@ -34,7 +34,7 @@ export default function Navbar() {
         {/* Logo */}
         <div className="h-[30px]">
           <img
-            src="./src/assets/logo.png"
+            src="assets/logo.png"
             alt=""
             className="h-full"
           />
