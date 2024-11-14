@@ -4,6 +4,9 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
+
+import ScrollToTop from "./components/ScrollToTop";
+
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ChooseColors from "./pages/ChooseColors";
@@ -13,6 +16,7 @@ import Result from "./pages/Result";
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
