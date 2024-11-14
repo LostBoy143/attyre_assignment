@@ -87,6 +87,13 @@ const HeroSection = () => {
             onDragOver={(e) => e.preventDefault()}
             onDrop={handleDrop}
           >
+            <input
+              id="fileInput"
+              type="file"
+              accept="image/*"
+              className="hidden"
+              onChange={handleFileInputChange}
+            />
             {/* Icon */}
             <div className="bg-[#F8F7F4] p-2 rounded-full text-gray-400">
               <img
@@ -97,13 +104,6 @@ const HeroSection = () => {
 
             <label className="text-[#F63D68] text-center">
               Click or drag and drop to upload
-              <input
-                id="fileInput"
-                type="file"
-                accept="image/*"
-                className="hidden"
-                onChange={handleFileInputChange}
-              />
             </label>
 
             <p className="text-gray-500 text-center text-sm">
