@@ -28,7 +28,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/attyre.git
+git clone https://github.com/LostBoy143/attyre_assignment
 cd attyre/frontend
 Install Dependencies
 
