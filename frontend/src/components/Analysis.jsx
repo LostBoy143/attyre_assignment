@@ -23,7 +23,7 @@ const ColorPickerComponent = () => {
   const generatePallete = async () => {
     try {
       const response = await axios.post(
-        "https://run.mocky.io/v3/bca419b3-a10c-4ba5-900e-e6a6002965c5",
+        "https://run.mocky.io/v3/d61381eb-0b45-4153-a32b-4391cceeba22",
 
         {
           skin_color: colors.skin,
